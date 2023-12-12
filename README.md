@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @v3ndi
-- 👀 I’m interested in Photography, python language 
-- 🌱 I’m currently learning Python language 
+- 👀 I’m interested in new things.
+- 🌱 I’m currently learning Automation for SQA
 - 📫 How to reach me dm me on Instagram 333.lucifer.666
 
 <!---
